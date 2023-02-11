@@ -1,0 +1,8 @@
+baseURL = "https://jacmoe.github.io/olivers-stenoscript/"
+languageCode = "en-us"
+title = "Oliver's Stenoscript"
+publishDir = 'docs'
+theme = "hugo-theme-learn"
+
+[markup.goldmark.renderer]
+unsafe = true

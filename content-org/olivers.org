@@ -1,0 +1,4 @@
+#+STARTUP: fold
+#+hugo_base_dir: ..
+#+OPTIONS: ^:nil ‘:nil
+
